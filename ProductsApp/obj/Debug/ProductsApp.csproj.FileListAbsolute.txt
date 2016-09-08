@@ -1,0 +1,14 @@
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\ProductsApp.dll
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\ProductsApp.pdb
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\System.Web.Http.dll
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\System.Web.Http.xml
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\Steven.Li\Downloads\C#\ProductsApp\obj\Debug\ProductsApp.pdb
