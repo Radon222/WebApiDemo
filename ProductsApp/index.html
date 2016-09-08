@@ -22,7 +22,8 @@
 
         $(document).ready(function () {
             // Send an AJAX request
-            $.getJSON(uri)
+            var action = 'GetAllProducts';
+            $.getJSON(uri + '/' + action)
                 .done(function (data) {
                     // On success, 'data' contains a list of products.
                     $.each(data, function (key, item) {
@@ -38,7 +39,8 @@
 
         function find() {
             var id = $('#prodId').val();
-            $.getJSON(uri + '/' + id)
+            var action = 'GetProduct';
+            $.getJSON(uri + '/' + action + '/' + id)
                 .done(function (data) {
                     $('#product').text(formatItem(data));
                 })
