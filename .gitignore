@@ -50,3 +50,4 @@ Temporary Items
 /ProductsApp/bin
 /ProductsApp/obj
 /.nuget
+/packages
